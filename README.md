@@ -5,7 +5,7 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 0. Mobile Robot Bootcamp](Lab0/Readme.md)
 
-[Lab 1. Interaction First](https://docs.google.com/document/d/1crCcF9xeGtB8w7cXovXq84kzbGXbScfacnlir8aL2wA/edit)
+[Lab 1. Interaction First](https://docs.google.com/document/d/1crCcF9xeGtB8w7cXovXq84kzbGXbScfacnlir8aL2wA/edit?usp=sharing)
 
 [Lab 2. Prototype the Robot]([https://docs.google.com/document/d/1crCcF9xeGtB8w7cXovXq84kzbGXbScfacnlir8aL2wA/edit](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab2/qm45_Readme.md)
 
@@ -19,4 +19,4 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 7. Finding People to Interact with + 8 Chatty Robots](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab7/Readme.md)
 
-[Final Project](https://docs.google.com/document/d/1oyIfgoewZ5EKNI9l7gVJhEMO4pmvLfiknOzNXydIV80/edit)
+[Final Project](https://docs.google.com/document/d/1oyIfgoewZ5EKNI9l7gVJhEMO4pmvLfiknOzNXydIV80/edit?usp=sharing)
