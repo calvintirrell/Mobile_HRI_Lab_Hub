@@ -7,7 +7,7 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 1. Interaction First](https://docs.google.com/document/d/1crCcF9xeGtB8w7cXovXq84kzbGXbScfacnlir8aL2wA/edit?usp=sharing)
 
-[Lab 2. Prototype the Robot]([https://docs.google.com/document/d/1crCcF9xeGtB8w7cXovXq84kzbGXbScfacnlir8aL2wA/edit](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab2/qm45_Readme.md)
+[Lab 2. Prototype the Robot](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab2/qm45_Readme.md)
 
 [Lab 3. Make the Robot Move](https://github.com/MintMin/Mobile_HRI_Lab_Hub/blob/main/Lab3/Readme.md)
 
